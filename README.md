@@ -76,5 +76,5 @@ This project was developed at the Indian Institute of Technology, Patna, as part
 ---
 
 For detailed usage examples and code, visit [Rtrafactor on Google Colab](https://colab.research.google.com/drive/1nzJou9tONTF6AOKqJTZc8--rIwI38JuR?usp=sharing).
-```
+
 
