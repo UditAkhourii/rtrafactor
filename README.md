@@ -1,4 +1,4 @@
-# Rtrafactor
+# Rtrafactor - LLMs on Steroids 
 
 Welcome to Eternity AI's Rtrafactor workspace!
 
