@@ -71,7 +71,7 @@ RTRA architecture challenges the conventional approach of relying on vast comput
 
 ## Acknowledgements
 
-This project was developed by udit Raj, Sanya Gupta, and other fellow researchers at the Indian Institute of Technology, Patna, as part of ongoing research in AI and natural language processing.
+This project was developed by Udit Raj, Sanya Gupta, and other fellow researchers at the Indian Institute of Technology, Patna, as part of ongoing research in AI and natural language processing.
 
 ---
 
